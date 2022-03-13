@@ -1,4 +1,4 @@
-# Imon WP-ReactJS Theme
+# Imon WP-ReactJS Starter Theme
 
 This repo contains one folder that is an example theme, and another folder that is an example block-type plugin. Both folders use the official [@wordpress/scripts](https://www.npmjs.com/package/@wordpress/scripts) package to power the JS(X) and SCSS bundling.
 
